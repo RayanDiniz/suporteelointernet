@@ -1,7 +1,7 @@
 {
   "name": "suporteelointernet",
   "version": "1.0.0",
-  "private": true,
+  "private": false,
   "repository": "https://github.com/RayanDiniz/suporteelointernet.git",
   "author": "RayanDiniz <rayacassiokiol@gmail.com>",
   "license": "MIT",
